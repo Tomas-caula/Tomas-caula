@@ -6,3 +6,5 @@
   <source media="(prefers-color-scheme: light)" srcset="./Experiencia.png">
   <img alt="experiencia." src="./Experiencia.png">
 </picture>
+
+[Linkedin] ("https://google.com)
