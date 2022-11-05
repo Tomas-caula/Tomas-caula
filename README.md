@@ -8,6 +8,6 @@ Hola, soy Tomás y este es mi Github
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./JavaScript-logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="./JavaScript-logo.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./JavaScript-logo.png">
 </picture>
