@@ -1,3 +1,4 @@
-# **TOMAS CAULA || Software Developer **
+# Tomas Caula || Software Developer 
 
-Hola, soy tomas y este es mi Github
+Hola, soy Tomás y este es mi Github 
+! (https://midu.dev/images/tags/node.png)
