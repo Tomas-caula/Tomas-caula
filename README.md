@@ -7,4 +7,4 @@
   <img alt="experiencia." src="./Experiencia.png">
 </picture>
 
-[Linkedin] ("https://google.com)
+Mi [linkedin](https://www.linkedin.com/in/tomas-caula-b0b743225/)
