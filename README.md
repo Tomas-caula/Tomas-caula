@@ -1,6 +1,6 @@
 # Tomas Caula || Software Developer 
 
-## Hola, soy Tomás y este es mi Github 
+## Mi experiencia
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Experiencia.png">
   <source media="(prefers-color-scheme: light)" srcset="./Experiencia.png">
